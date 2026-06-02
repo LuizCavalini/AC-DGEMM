@@ -5,3 +5,4 @@ src/*.o
 # Resultados locais (variam por máquina)
 results/*.csv
 results/*.png
+results/
